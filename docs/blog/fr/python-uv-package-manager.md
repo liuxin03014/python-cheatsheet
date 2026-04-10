@@ -249,4 +249,4 @@ Que vous commenciez un nouveau projet ou migriez un projet existant, UV fournit 
 
 Alors que l'écosystème Python continue d'évoluer, des outils comme UV démontrent comment les technologies modernes comme Rust peuvent améliorer l'expérience de développement tout en maintenant la simplicité et l'accessibilité que les développeurs Python apprécient.
 
-Les outils Python comme le gestionnaire de paquets UV peuvent améliorer considérablement votre flux de travail de développement. La demande pour les développeurs Python continue de croître, en particulier dans les rôles flexibles et à distance – pensez à [explorer les opportunités d'emploi à domicile dans le monde entier](https://jooble.org/jobs-worldwide-work-at-home) dans l'industrie.
+Les outils Python comme le gestionnaire de paquets UV peuvent améliorer considérablement votre flux de travail de développement.

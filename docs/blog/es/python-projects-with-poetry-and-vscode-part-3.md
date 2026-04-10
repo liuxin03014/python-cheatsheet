@@ -173,7 +173,7 @@ Ahora puedes usar `poetry install` en tu terminal para instalar y probar tu paqu
 Execution Time: 705 ms.
 ```
 
-[Ejecuta las pruebas](https://pythoncheatsheet.org/blog/python-projects-with-poetry-and-vscode-part-2#Pytest) y si todo está bien, continúa.
+[Ejecuta las pruebas](https://labex.io/pythoncheatsheet/es/blog/python-projects-with-poetry-and-vscode-part-2#Pytest) y si todo está bien, continúa.
 
 ## Construcción y Publicación
 
